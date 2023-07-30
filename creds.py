@@ -3,6 +3,6 @@ TWITCH_TOKEN = "zdzghayeacyk6f7axxs6fvksi41u46"
 # Your TWITCH Channel Name
 TWITCH_CHANNEL = "pliteweq"
 # Your OpenAI API Key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 # Your Google Cloud JSON Path
 GOOGLE_JSON_PATH = ""
